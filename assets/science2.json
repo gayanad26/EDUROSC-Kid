@@ -1,0 +1,91 @@
+[
+    {
+        "1": "We have ______ sense organs.",
+        "2": "We can hear with our",
+        "3": "We can smell the flowers with our",
+        "4": "We can taste with our",
+        "5": "Our body has ______ different parts",
+        "6": "Eyes, ears, nose, tongue and ____ are called sense organs.",
+        "7": "The colour of your, eyes is ",
+        "8": "How many fingers do we have in both hands?",
+        "9": "We carry our school bag on our",
+        "10": "Which part of your body do you use to run?"
+        
+    },
+    {
+        "1": {
+            "a": "five",
+            "b": "four",
+            "c": "three",
+            "d": "two"
+        },
+        "2": {
+            "a": "ears",
+            "b": "hand",
+            "c": "leg",
+            "d": "nose"
+        },
+        "3": {
+            "a": "ears",
+            "b": "hand",
+            "c": "leg",
+            "d": "nose"
+        },
+        "4": {
+            "a": "stomach",
+            "b": "mouth",
+            "c": "hand",
+            "d": "Ears"
+        },
+        "5": {
+            "a": "many",
+            "b": "ten",
+            "c": "twelve",
+            "d": "one"
+        },
+        "6": {
+            "a": "toes",
+            "b": "fingers",
+            "c": "skin",
+            "d": "None of these"
+        },
+        "7": {
+            "a": "red",
+            "b": "black",
+            "c": "yellow",
+            "d": "blue"
+        },
+        "8": {
+            "a": "ten",
+            "b": "four",
+            "c": "three",
+            "d": "two"
+        },
+        "9": {
+            "a": "mouth",
+            "b": "leg",
+            "c": "shoulder",
+            "d": "stomach"
+        },
+        "10": {
+            "a": "ears",
+            "b": "hand",
+            "c": "legs",
+            "d": "nose"
+        }
+        
+    },
+    {
+        "1": "five",
+        "2": "ears",
+        "3": "nose",
+        "4": "mouth",
+        "5": "many",
+        "6": "skin",
+        "7": "black",
+        "8": "ten",
+        "9": "Water",
+        "10": "legs"
+        
+    }
+]

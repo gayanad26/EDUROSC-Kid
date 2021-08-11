@@ -1,0 +1,91 @@
+[
+    {
+        "1": "How many alphabets are there in English?",
+        "2": "The King of the Jungle is ",
+        "3": "The lion is sitting on a ____",
+        "4": "My name ____ Raj\nFill in the blank",
+        "5": "Choose rhyming word for Feet",
+        "6": "How many alphabets are there in English?",
+        "7": "The King of the Jungle is ",
+        "8": "The lion is sitting on a ____",
+        "9": "My name ____ Raj\nFill in the blank",
+        "10": "Choose rhyming word for Feet"
+        
+    },
+    {
+        "1": {
+            "a": "24",
+            "b": "26",
+            "c": "25",
+            "d": "27"
+        },
+        "2": {
+            "a": "Lion",
+            "b": "Fox",
+            "c": "Tiger",
+            "d": "Panda"
+        },
+        "3": {
+            "a": "Chair",
+            "b": "Throne",
+            "c": "Table",
+            "d": "Pillow"
+        },
+        "4": {
+            "a": "am",
+            "b": "is",
+            "c": "can",
+            "d": "are"
+        },
+        "5": {
+            "a": "cut",
+            "b": "look",
+            "c": "eat",
+            "d": "crown"
+        },
+        "6": {
+            "a": "24",
+            "b": "26",
+            "c": "25",
+            "d": "27"
+        },
+        "7": {
+            "a": "Lion",
+            "b": "Fox",
+            "c": "Tiger",
+            "d": "Panda"
+        },
+        "8": {
+            "a": "Chair",
+            "b": "Throne",
+            "c": "Table",
+            "d": "Pillow"
+        },
+        "9": {
+            "a": "am",
+            "b": "is",
+            "c": "can",
+            "d": "are"
+        },
+        "10": {
+            "a": "cut",
+            "b": "look",
+            "c": "eat",
+            "d": "crown"
+        }
+        
+    },
+    {
+        "1": "26",
+        "2": "Lion",
+        "3": "Throne",
+        "4": "is",
+        "5": "eat",
+        "6": "26",
+        "7": "Lion",
+        "8": "Throne",
+        "9": "is",
+        "10": "eat"
+        
+    }
+]

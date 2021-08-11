@@ -1,0 +1,91 @@
+[
+    {
+        "1": "The wolf was _____",
+        "2": "Bear lives in _____",
+        "3": "Which house was very strong?",
+        "4": "How many pigs were there?",
+        "5": "What is your house made of?",
+        "6": "Horse lives in _____",
+        "7": "The King of the Jungle is ",
+        "8": "Giraffe lives in _____",
+        "9": "Frog lives in _____",
+        "10": "Three little pigs name was ____"
+        
+    },
+    {
+        "1": {
+            "a": "Big",
+            "b": "Small",
+            "c": "Fat",
+            "d": "Slim"
+        },
+        "2": {
+            "a": "Forest",
+            "b": "Form",
+            "c": "Water",
+            "d": "None of these"
+        },
+        "3": {
+            "a": "Brick house",
+            "b": "Straw house",
+            "c": "sticks house",
+            "d": "None of these"
+        },
+        "4": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "5": {
+            "a": "Bricks",
+            "b": "Cloth",
+            "c": "Flower",
+            "d": "Water"
+        },
+        "6": {
+            "a": "Farm",
+            "b": "Forest",
+            "c": "Water",
+            "d": "None of these"
+        },
+        "7": {
+            "a": "Lion",
+            "b": "Fox",
+            "c": "Tiger",
+            "d": "Panda"
+        },
+        "8": {
+            "a": "Farm",
+            "b": "Forest",
+            "c": "Water",
+            "d": "None of these"
+        },
+        "9": {
+            "a": "Water",
+            "b": "Forest",
+            "c": "Farm",
+            "d": "None of these"
+        },
+        "10": {
+            "a": "Sonu,Monu,Gonu",
+            "b": "Rohit,Mohit,Sohit",
+            "c": "Rohan,Mohan",
+            "d": " None of these"
+        }
+        
+    },
+    {
+        "1": "Big",
+        "2": "Forest",
+        "3": "Brick house",
+        "4": "3",
+        "5": "Bricks",
+        "6": "Farm",
+        "7": "Lion",
+        "8": "Forest",
+        "9": "Water",
+        "10": "Sonu, Monu and Gonu"
+        
+    }
+]

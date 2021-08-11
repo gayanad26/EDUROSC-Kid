@@ -1,0 +1,91 @@
+[
+    {
+        "1": "If I were a dog and could _____",
+        "2": "I _____to save water",
+        "3": " I Try to _____ water",
+        "4": "After my bath I try to _____ myself",
+        "5": "I have _____ Ears",
+        "6": "I like to take bath because it keeps me_____",
+        "7": "I dry myself with a _____",
+        "8": "I have _____ legs.",
+        "9": "Have you seen an animal drying itself?",
+        "10": "What do you do after a bath?"
+        
+    },
+    {
+        "1": {
+            "a": "Shake",
+            "b": "Run",
+            "c": "Fly",
+            "d": "None of these"
+        },
+        "2": {
+            "a": "Try",
+            "b": "Don’t Try",
+            "c": "Both",
+            "d": "None of these"
+        },
+        "3": {
+            "a": "Save",
+            "b": "Waste",
+            "c": "Throw",
+            "d": "None of these"
+        },
+        "4": {
+            "a": "Wipe",
+            "b": "wet",
+            "c": "Fly",
+            "d": "Run"
+        },
+        "5": {
+            "a": "Two",
+            "b": "Three",
+            "c": "Four",
+            "d": "Five"
+        },
+        "6": {
+            "a": "Clean",
+            "b": "Dirty",
+            "c": "Dry",
+            "d": "None of these"
+        },
+        "7": {
+            "a": "Towel",
+            "b": "dirty cloth",
+            "c": "Paint",
+            "d": "Shirt"
+        },
+        "8": {
+            "a": "Two",
+            "b": "Three",
+            "c": "Four",
+            "d": "One"
+        },
+        "9": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Dont Know",
+            "d": "None of these"
+        },
+        "10": {
+            "a": "Throw Towel",
+            "b": "Hang towel",
+            "c": "Both",
+            "d": "None of these"
+        }
+        
+    },
+    {
+        "1": "Shake",
+        "2": "Try",
+        "3": "Save",
+        "4": "Wipe",
+        "5": "Two",
+        "6": "Clean",
+        "7": "Towel",
+        "8": "Two",
+        "9": "Yes",
+        "10": "Hang towel"
+        
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "1": "We wear ____ clothes in summer season",
+        "2": "We get ____ from sheep",
+        "3": "We wear ____ when we go to school",
+        "4": "We wear woollen clothes in ____",
+        "5": "Cotton clothes keep us ____",
+        "6": "When we go for a marriage or other parties,\nwe wear ________ clothes",
+        "7": "We get cotton from the ____ plant.",
+        "8": "We take rain coats in the ____ seasons",
+        "9": "Nurse, fire fighters and ____ also wear uniforms",
+        "10": "Some places people live in huge boats. These are called ____"
+        
+    }, 
+    {
+        "1": {
+            "a": "cotton",
+            "b": "woollen",
+            "c": "raincoats",
+            "d": "None of these"
+        },
+        "2": {
+            "a": "cotton",
+            "b": "raincoats",
+            "c": "wool",
+            "d": "None of these"
+        },
+        "3": {
+            "a": "formal clothes",
+            "b": "uniforms",
+            "c": "woollen clothes",
+            "d": "None of these"
+        },
+        "4": {
+            "a": "summers",
+            "b": "winters",
+            "c": "monsoon",
+            "d": "None of these"
+        },
+        "5": {
+            "a": "warm",
+            "b": "cool",
+            "c": "Both",
+            "d": "None of these"
+        },
+        "6": {
+            "a": "comfortable",
+            "b": "uniform",
+            "c": "formal",
+            "d": "None of these"
+        },
+        "7": {
+            "a": "Tulsi",
+            "b": "Cotton",
+            "c": "Neem",
+            "d": "None of these"
+        },
+        "8": {
+            "a": "Rainy",
+            "b": "Summer",
+            "c": "winter",
+            "d": "spring"
+        },
+        "9": {
+            "a": "mother",
+            "b": "policeman",
+            "c": "father",
+            "d": "None of these"
+        },
+        "10": {
+            "a": "houseboats",
+            "b": "tents",
+            "c": "caravan",
+            "d": "flats"
+        }
+        
+    },
+    {
+        "1": "cotton",
+        "2": "wool",
+        "3": "uniforms",
+        "4": "winters",
+        "5": "cool",
+        "6": "formal",
+        "7": "Cotton",
+        "8": "Rainy",
+        "9": "policeman",
+        "10": "houseboats"
+        
+    }
+]

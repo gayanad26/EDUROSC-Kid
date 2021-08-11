@@ -1,0 +1,91 @@
+[
+    {
+        "1": "We wear ____ clothes in summer season",
+        "2": "We get ____ from sheep",
+        "3": "We wear ____ when we go to school",
+        "4": "We wear woollen clothes in ____",
+        "5": "Cotton clothes keep us ____",
+        "6": "Eyes, ears, nose, tongue and ____ are called sense organs.",
+        "7": "The colour of your, eyes is ",
+        "8": "How many fingers do we have in both hands?",
+        "9": "We carry our school bag on our",
+        "10": "Which part of your body do you use to run?"
+        
+    },
+    {
+        "1": {
+            "a": "cotton",
+            "b": "woollen",
+            "c": "raincoats",
+            "d": "None of these"
+        },
+        "2": {
+            "a": "cotton",
+            "b": "raincoats",
+            "c": "wool",
+            "d": "None of these"
+        },
+        "3": {
+            "a": "formal clothes",
+            "b": "uniforms",
+            "c": "woollen clothes",
+            "d": "None of these"
+        },
+        "4": {
+            "a": "summers",
+            "b": "winters",
+            "c": "monsoon",
+            "d": "None of these"
+        },
+        "5": {
+            "a": "warm",
+            "b": "cool",
+            "c": "Both",
+            "d": "None of these"
+        },
+        "6": {
+            "a": "toes",
+            "b": "fingers",
+            "c": "skin",
+            "d": "None of these"
+        },
+        "7": {
+            "a": "red",
+            "b": "black",
+            "c": "yellow",
+            "d": "blue"
+        },
+        "8": {
+            "a": "ten",
+            "b": "four",
+            "c": "three",
+            "d": "two"
+        },
+        "9": {
+            "a": "mouth",
+            "b": "leg",
+            "c": "shoulder",
+            "d": "stomach"
+        },
+        "10": {
+            "a": "ears",
+            "b": "hand",
+            "c": "legs",
+            "d": "nose"
+        }
+        
+    },
+    {
+        "1": "cotton",
+        "2": "wool",
+        "3": "uniforms",
+        "4": "winters",
+        "5": "cool",
+        "6": "skin",
+        "7": "black",
+        "8": "ten",
+        "9": "Water",
+        "10": "legs"
+        
+    }
+]
